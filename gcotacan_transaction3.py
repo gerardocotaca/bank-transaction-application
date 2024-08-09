@@ -1,5 +1,3 @@
-# Gerardo Cota Canez, CIS 345, Online Session B, PE3
-# os allows us to clear the screen in an actual console or terminal
 import os
 import random
 
